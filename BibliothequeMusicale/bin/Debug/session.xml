@@ -1,0 +1,37 @@
+﻿<Session>
+	<Albums>
+		<Album>
+			<Compositeur>Compositeur</Compositeur>
+			<Titre>Nouvel album</Titre>
+			<Pistes />
+		</Album>
+		<Album>
+			<Compositeur>Compositeur</Compositeur>
+			<Titre>Nouvel album</Titre>
+			<Pistes />
+		</Album>
+		<Album>
+			<Compositeur>Compositeur</Compositeur>
+			<Titre>Nouvel album</Titre>
+			<Pistes />
+		</Album>
+		<Album>
+			<Compositeur>Compositeur</Compositeur>
+			<Titre>Nouvel album</Titre>
+			<Pistes>
+				<Piste>
+					<ID>1</ID>
+					<Nom>Nouvelle piste</Nom>
+				</Piste>
+				<Piste>
+					<ID>2</ID>
+					<Nom>Nouvelle piste</Nom>
+				</Piste>
+				<Piste>
+					<ID>3</ID>
+					<Nom>Nouvelle piste</Nom>
+				</Piste>
+			</Pistes>
+		</Album>
+	</Albums>
+</Session>

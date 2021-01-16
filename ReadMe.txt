@@ -1,0 +1,2 @@
+Le projet inclus une sérialisation XML de la session en cours. La sérialisation s'effectue à la fermeture de la fenêtre MainWindow.
+Le fichier XML est sauvegardé dans le même dossier que le fichier excecutable de l'application WPF.

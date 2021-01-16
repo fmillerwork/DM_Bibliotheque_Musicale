@@ -1,0 +1,42 @@
+﻿<Session>
+	<Albums>
+		<Album>
+			<Compositeur>Hans Zimmer</Compositeur>
+			<Titre>Roi Loin OST</Titre>
+			<Pistes>
+				<Piste>
+					<ID>1</ID>
+					<Nom>Hakuna Matata</Nom>
+				</Piste>
+				<Piste>
+					<ID>2</ID>
+					<Nom>Nouvelle piste</Nom>
+				</Piste>
+				<Piste>
+					<ID>3</ID>
+					<Nom>Nouvelle piste</Nom>
+				</Piste>
+				<Piste>
+					<ID>4</ID>
+					<Nom>Nouvelle piste</Nom>
+				</Piste>
+				<Piste>
+					<ID>5</ID>
+					<Nom>Nouvelle piste</Nom>
+				</Piste>
+				<Piste>
+					<ID>6</ID>
+					<Nom>Nouvelle piste</Nom>
+				</Piste>
+				<Piste>
+					<ID>7</ID>
+					<Nom>Nouvelle piste</Nom>
+				</Piste>
+				<Piste>
+					<ID>8</ID>
+					<Nom>Nouvelle piste</Nom>
+				</Piste>
+			</Pistes>
+		</Album>
+	</Albums>
+</Session>
